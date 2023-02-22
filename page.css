@@ -1,0 +1,54 @@
+.bg-container{
+    background-image: url("https://img.freepik.com/free-vector/night-rice-field-terraces-asian-mountains-landscape-with-paddy-plantation-cascades-chinese-agricultural-farm-dark-starry-sky-with-full-moon-glowing-fireflies-cartoon-vector-illustration_107791-10584.jpg?w=1380&t=st=1677073076~exp=1677073676~hmac=b3a620afa226d722e0708339ff80f16db69ff8a332e1a1edf26bcdb593e276e0");
+    height: 80vh;
+    background-size: cover;
+    text-align: center;
+    padding-top: 300px;
+    justify-content: center;
+}
+.para{
+    color: aliceblue;
+
+}
+.btn{
+    height: 30px;
+    width:170px;
+    border-radius: 10px;
+    background-color: chocolate;
+    color: aliceblue;
+    margin: 15px;
+   
+}
+.input{
+    border-radius: 5px;
+}
+.h2{
+    color: white;
+    font-size:40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn2{
+    width: 170px;
+    height: 30px;
+    padding: 5px;
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 11px;
+    border-radius: 8px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.or{
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size: 13px;
+}
+.by{
+    color: aliceblue;
+}
+.have{
+    color: aqua;
+}
+.sp{
+    color: white;
+}
